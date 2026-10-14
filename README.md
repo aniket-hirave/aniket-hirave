@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-Beyond the Terminal: Who I Am.
-aniket-hirave.github.io/.com/
+
 
 
 <!--
